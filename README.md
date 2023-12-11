@@ -1,2 +1,2 @@
 # Garbage-Dynamics
-Simple program to animate wallpapers on Linux
+Simple package to animate wallpapers on Linux
