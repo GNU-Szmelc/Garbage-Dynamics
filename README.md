@@ -2,5 +2,5 @@
 Simple package to animate wallpapers on Linux
 
 ## Simple setup
-> Download and run `1.sh` with `bash 1.sh {filename}.gif` \
+> Download and run `main.sh` with `bash main.sh` \
 > Set your DE / WM desktop wallpaper to newly created "animated" `frame.png`
